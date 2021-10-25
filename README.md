@@ -56,9 +56,9 @@
 ![Naver Search Advisor Badge](http://img.shields.io/badge/Search%20Advisor-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
 ### 2.2.5. Microsoft
-![Microsoft Word Badge](http://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=Microsoft%20Word&logoColor=white)
-![Microsoft Excel Badge](http://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
-![Microsoft PowerPoint Badge](http://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20Powerpoint&logoColor=white)
+![Microsoft Word Badge](http://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=Microsoft%20Word&logoColor=white)
+![Microsoft Excel Badge](http://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
+![Microsoft PowerPoint Badge](http://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20Powerpoint&logoColor=white)
 
 - - -
 
