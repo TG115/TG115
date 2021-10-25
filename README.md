@@ -13,11 +13,11 @@
 
 ### 2.1.1. Favorite
 
-![PHP Badge](http://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML Badge](http://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](http://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP Badge](http://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Lua Badge](http://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Linux Badge](http://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
@@ -59,6 +59,9 @@
 ![Microsoft Word Badge](http://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=Microsoft%20Word&logoColor=white)
 ![Microsoft Excel Badge](http://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
 ![Microsoft PowerPoint Badge](http://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20Powerpoint&logoColor=white)
+
+- - -
+
 
 
 
