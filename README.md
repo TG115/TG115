@@ -21,6 +21,7 @@
 ![Lua Badge](http://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Linux Badge](http://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TG115&layout=compact&theme=material-palenight&langs_count=5)
 
 ### 2.1.2. Learning
 ![Node.js Badge](http://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
