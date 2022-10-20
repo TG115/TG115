@@ -24,6 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TG115&layout=compact&theme=material-palenight&langs_count=5)
 
 ### 2.1.2. Learning
+![CodeIgniter Badge](http://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js Badge](http://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python Badge](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS Badge](http://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
