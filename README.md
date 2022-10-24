@@ -16,6 +16,7 @@
 ![HTML Badge](http://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](http://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](http://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JQuery Badge](http://img.shields.io/badge/JQuery-0868AB?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP Badge](http://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Lua Badge](http://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
