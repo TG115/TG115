@@ -19,7 +19,7 @@
 ![JQuery Badge](http://img.shields.io/badge/JQuery-0868AB?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL Badge](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP Badge](http://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter Badge](http://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white)
+![CodeIgniter Badge](http://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter3&logoColor=white)
 ![Lua Badge](http://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Linux Badge](http://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
@@ -46,15 +46,13 @@
 ![Slack Badge](http://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion Badge](http://img.shields.io/badge/Quip-F27557?style=for-the-badge&logo=quip&logoColor=white)
 ![QUIP Badge](http://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
-
-### 2.2.3. Google
 ![Google Drive Badge](http://img.shields.io/badge/Drive-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)
 ![Google Calandar Badge](http://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=Google%20Calendar&logoColor=white)
+
+### 2.2.3. SEO
 ![Google Analytics Badge](http://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=white)
 ![Google Tag Manager Badge](http://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=Google%20Tag%20Manager&logoColor=white)
 ![Google Search Console Badge](http://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=Google%20Search%20Console&logoColor=white)
-
-### 2.2.4. Naver
 ![Naver Search Advisor Badge](http://img.shields.io/badge/Search%20Advisor-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
 - - -
